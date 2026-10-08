@@ -1,0 +1,8 @@
+VulkanSDK/
+**/build-*/
+**/cmake-build-*/
+**/.idea/
+**/VulkanSDK.local.cmake
+**/imgui.ini
+**/shaders/*.spv
+*.log
