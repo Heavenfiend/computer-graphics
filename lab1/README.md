@@ -26,4 +26,3 @@
 
 Основа — [стартовый проект преподавателя](https://github.com/vladeemerr/vulkan-starter-app).
 Его код работы с Vulkan находится в source/graphics_internal.cpp и source/main.cpp.
-Лицензия шаблона сохранена в LICENSE и NOTICE.
