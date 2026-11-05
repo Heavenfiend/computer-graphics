@@ -1,0 +1,9 @@
+Copyright 2026 Vladimir Bakharev
+
+stb_image.h: Copyright (c) 2017 Sean Barrett and contributors.
+Vendored from https://github.com/nothings/stb at
+d14d46f6b44456eb88beac58cba833a4135d4c89, used under the MIT license.
+The complete upstream license is in third_party/stb.LICENSE.
+
+The PNG textures in resources/textures are original procedural assets for this
+laboratory, reproducible with resources/generate_textures.py (Python standard library).
